@@ -1,0 +1,10 @@
+C:\Users\aidan\source\repos\MagicCounter\MagicCounter\bin\Debug\MagicCounter.exe.config
+C:\Users\aidan\source\repos\MagicCounter\MagicCounter\bin\Debug\MagicCounter.exe
+C:\Users\aidan\source\repos\MagicCounter\MagicCounter\bin\Debug\MagicCounter.pdb
+C:\Users\aidan\source\repos\MagicCounter\MagicCounter\obj\Debug\MagicCounter.csprojAssemblyReference.cache
+C:\Users\aidan\source\repos\MagicCounter\MagicCounter\obj\Debug\MagicCounter.Form1.resources
+C:\Users\aidan\source\repos\MagicCounter\MagicCounter\obj\Debug\MagicCounter.Properties.Resources.resources
+C:\Users\aidan\source\repos\MagicCounter\MagicCounter\obj\Debug\MagicCounter.csproj.GenerateResource.cache
+C:\Users\aidan\source\repos\MagicCounter\MagicCounter\obj\Debug\MagicCounter.csproj.CoreCompileInputs.cache
+C:\Users\aidan\source\repos\MagicCounter\MagicCounter\obj\Debug\MagicCounter.exe
+C:\Users\aidan\source\repos\MagicCounter\MagicCounter\obj\Debug\MagicCounter.pdb
